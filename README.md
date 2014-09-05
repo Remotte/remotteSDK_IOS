@@ -11,7 +11,9 @@ Remotte SDK IOS
 
 ## Contact
 
-[Remotte(http://www.remotte.com) ([Support](support@remotte.com))
+([Remotte(http://www.remotte.com) 
+
+For more info contact us in support@remotte.com
 
 ## Licence
 
